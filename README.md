@@ -23,12 +23,16 @@ KNN	63.76%
 Gaussian Naive Bayes	56.18%
 Logistic Regression	64.89%
 Ensemble	67.98%
-How to Run
+
+
+How to Run:
+
 Open the notebook in Google Colab
 Run all cells top to bottom
 Upload the TrashNet dataset when prompted
 Use the built-in widget to upload a photo and classify it
-Team
+
+Team:
 Name	Role
 Ehtasham Maqbool	Project Lead
 Ahmad Khan	Data Collection & Preprocessing
